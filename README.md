@@ -11,4 +11,4 @@ Hosted at : https://ananya1262.github.io/Calculator_app_Web_Dev/
 
 
 
-Credits: RoboVitics - The official robotics club of VIT
+Credits: RoboVITics - The official robotics club of VIT
